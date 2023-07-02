@@ -1,0 +1,6 @@
+This assignment is done, I did what I had to.
+I even checked through a list of feedback from previous assignments to make sure I didn't miss anything
+like aremethic pointers. which was hard to implement because I wasn't too sure where it would make sense to use it.
+however I did show now that I know how to use it. man my brain is fried. I'm going to go to bed now.
+
+also this message is nothing but a test to see if everything still works correctly and that there are no errors.

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "channelnoise.h": "c",
+        "stdlib.h": "c"
+    }
+}
